@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://anasmahmud.free.nf/](https://anasmahmud.free.nf/)
+- 👨‍💻 All of my projects are available at - [https://anasmahmud.free.nf/](https://anasmahmud.free.nf/)
 
 ### Programming languages
 
