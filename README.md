@@ -51,7 +51,7 @@
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-- 👨‍💻 All of my projects are available at - [https://anasmahmud.free.nf/](https://anasmahmud.free.nf/)
+All of my projects are available at - [https://anasmahmud.free.nf/](https://anasmahmud.free.nf/)
 
 ## 🚀 Current stats
 
